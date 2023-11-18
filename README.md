@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Poundsster
-- 👀 I’m interested in Web applicatin development, programming and Daatabase
+- 👋 Hi, I’m @Pounds Sterling
+- 👀 I’m interested in Web application development and programming
 - 🌱 I’m currently learning Web application development
-- 💞️ I’m looking to collaborate on Web application developers
+- 💞️ I’m looking to collaborate with Web application developers 
 - 📫 How to reach me poundssterling108@gmail.com
 
 <!---
